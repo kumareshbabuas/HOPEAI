@@ -1,2 +1,2 @@
 # HOPEAI
-HOPE AI Practices
+AI Practices
